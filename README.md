@@ -1,6 +1,6 @@
 # Rock-Paper-Scissors Game 🎮
 
-A fun and interactive Rock-Paper-Scissors game built using **JavaScript**, **HTML**, and **CSS**. Play against the computer and test your luck and strategy! 🚀
+A fun and interactive Rock-Paper-Scissors game built using **JavaScript**, **HTML**, and **CSS**. Play against the computer and test your luck and strategy! 
 
 ## Features ✨
 
